@@ -29,4 +29,31 @@ img {
     height: auto;
     width: 500px;
 }
+
+#subsection {
+    color: blue;
+    background-color: yellow;
+}
   
+.main .list{
+    color: red;
+}
+.main #subsection{
+    color: red;
+}
+
+.class .second-class {
+    font-size: 12px;
+}
+
+.class .second-class {
+    font-size: 24px;
+}
+
+#parent {
+    color: red;
+}
+
+.child{
+    color: blue;
+}
